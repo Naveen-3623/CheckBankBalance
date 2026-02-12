@@ -1,5 +1,9 @@
 Project: CheckBankBalance
+
+
 Overview:
+
+
 A simple Java application that uses JDBC to connect to Oracle 11g XE database to check bank account balance and perform money transfers with proper exception handling.
 Technologies Used:
 Java
