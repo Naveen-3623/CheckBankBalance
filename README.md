@@ -9,10 +9,14 @@ A simple Java application that uses JDBC to connect to Oracle 11g XE database to
 Technologies Used:
 
 
-Java
-JDBC
-Oracle 11g XE
-Eclipse IDE
+Java,
+
+JDBC,
+
+Oracle 11g XE,
+
+Eclipse IDE.
+
 Features:
 
 
